@@ -4,5 +4,5 @@ Team Minions
 
 Merna Maher Ghaly
 Mina Gamal Khella
-Mayar Ahmed Alaa eldin
+Mayar Ahmed Alaa ElDin
 Naira Wahid Gharib
